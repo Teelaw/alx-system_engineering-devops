@@ -1,1 +1,1 @@
-hexadecimal
+ASCII
